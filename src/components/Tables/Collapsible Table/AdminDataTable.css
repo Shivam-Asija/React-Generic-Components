@@ -1,0 +1,30 @@
+.css-1ps6pg7-MuiPaper-root {
+  background-color: #f8f8f8;
+}
+
+.css-11bfvty-MuiToolbar-root-MuiTablePagination-toolbar {
+  color: white;
+  background-color: black !important;
+}
+.css-pqjvzy-MuiSvgIcon-root-MuiSelect-icon {
+  color: white !important;
+}
+button[disabled] {
+  color: white !important;
+}
+.css-pdct74-MuiTablePagination-selectLabel,
+.css-levciy-MuiTablePagination-displayedRows {
+  margin: 0;
+}
+
+.password-input {
+  display: none;
+}
+
+.multiSelectFilter {
+  margin-bottom: 1em;
+}
+
+.password-input {
+  margin-top: 1em;
+}

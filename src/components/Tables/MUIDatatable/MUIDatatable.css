@@ -1,0 +1,9 @@
+.MuiTablePagination-selectLabel,
+.MuiTablePagination-displayedRows {
+  margin-top: 1em !important;
+}
+
+/* .MuiDataGrid-columnHeader {
+  width: auto !important;
+  max-width: fit-content !important;
+} */
